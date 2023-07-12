@@ -1,0 +1,12 @@
+.form-item_area {
+  background-color: #f4f2ff;
+  border: 0 none;
+  border-radius: 5px;
+  margin-bottom: 12px;
+  min-height: 40px;
+  width: 524px;
+}
+
+.form-item_area:last-child {
+  margin: 0;
+}
