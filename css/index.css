@@ -3,7 +3,6 @@
 @import 'section/section.css';
 @import 'section/__title/section__title.css';
 @import 'section/__close-modal/section__close-modal.css';
-
 @import 'section/modal/__form/modal__form.css';
 @import 'section/modal/__form/form-item/form-item.css';
 @import 'section/modal/__form/form-item/_title/form-item_title.css';
@@ -12,3 +11,4 @@
 @import 'section/modal/discount/discount__checkbox.css';
 @import 'section/modal/modal.css';
 @import 'section/modal/__form/submint/submint.css';
+@import 'section/modal/discount/img.css';

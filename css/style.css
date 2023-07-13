@@ -69,3 +69,7 @@ ul {
 iframe {
   border: none;
 }
+
+textarea {
+  resize: none;
+}

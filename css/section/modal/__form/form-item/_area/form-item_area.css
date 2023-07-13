@@ -4,7 +4,7 @@
   border-radius: 5px;
   margin-bottom: 12px;
   min-height: 40px;
-  width: 524px;
+  width: 100%;
 }
 
 .form-item_area:last-child {
