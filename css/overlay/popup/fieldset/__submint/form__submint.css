@@ -1,4 +1,5 @@
-.submint {
+.form__submint {
+  max-width: 200px;
   background: #6d5bd0;
   font-size: 16px;
   font-style: normal;
@@ -6,8 +7,8 @@
   line-height: normal;
   text-transform: uppercase;
   color: #fff;
-  padding: 10px 25px;
+  padding: 10px 24px;
   border-radius: 10px;
-  position: relative;
-  left: 350px;
+  float: right;
+  transform: translateY(60px);
 }
